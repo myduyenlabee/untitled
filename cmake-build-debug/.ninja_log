@@ -1,0 +1,14 @@
+# ninja log v5
+4	1125	6985354948045081	CMakeFiles/untitled.dir/main.cpp.obj	857a623eadcfdf53
+12	515	6986057600391463	build.ninja	604631fe5e804461
+1224	1478	6985345102006711	untitled.exe	2b808476f43bfaa
+10	1131	6983114979426895	CMakeFiles/untitled.dir/baitap.cpp.obj	c56c4a4592f967fd
+7	7202	6978265911374846	CMakeFiles/untitled.dir/C_/Users/supha/Downloads/test.cpp.obj	805611f2eab6def2
+0	625	6984906814791250	CMakeFiles/untitled1.dir/baitap.cpp.obj	7ffeacdab404f38f
+626	837	6984906816818228	untitled1.exe	3e45dd1da0031d01
+1126	1341	6985354950149207	bin/untitled.exe	314cace63b0c59c5
+28	1199	6986091075789991	CMakeFiles/untitled.dir/main.cpp.obj	857a623eadcfdf53
+1200	1437	6986091078083777	bin/untitled.exe	314cace63b0c59c5
+4	1203	6986094485524484	CMakeFiles/untitled.dir/main.cpp.obj	857a623eadcfdf53
+1205	1426	6986094487676658	bin/untitled.exe	314cace63b0c59c5
+20	1254	6986143561372870	CMakeFiles/untitled.dir/main.cpp.obj	857a623eadcfdf53
